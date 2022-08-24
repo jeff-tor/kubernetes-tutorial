@@ -1,0 +1,11 @@
+kubernetes is a cloud based autoscaling solution
+that allows multiple microservices to connect and 
+scale easily with minimal downtime. Kubernetes also
+allows self-healing services and in a way automates
+some form of disaster recovery by ensuring the right
+amount of resources are allocated for each microservice
+
+
+kubernetes is also known as k8s, we will practice deploying
+a simple project on k8s at the end of this tutorial but
+firstly let us configure 
